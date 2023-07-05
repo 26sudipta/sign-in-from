@@ -1,0 +1,86 @@
+body {
+    /* background-image: url(bg2.jpg);
+    background-size: cover;
+    background-attachment: fixed; */
+  }
+  
+.box {
+    margin: 40px auto;
+    width: 40%;
+    background-color: rgba(204, 201, 191, 0.63);
+    box-shadow: 2px 2px rgba(102, 91, 91, 0.493);
+    border-radius: 40px;
+}
+.icon {
+    width: 30%;
+    margin: 1px 35% ;
+}
+.box h1 {
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    font-size: 40px;
+}
+
+.box form {
+    padding: 0% 10%;
+}
+
+.input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 10px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    width: 100%;
+    background-color: #000000;
+    color: white;
+    padding: 14px 20px;
+    margin: 20px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #333131;
+}
+label{
+    font-size: 20px;
+    font-weight: 500;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(163, 0, 0);
+}
+
+div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+h4 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.img1 {
+    width: 30px;
+    margin-left: 43%;
+}
+
+.img2 {
+    width: 35px;
+    margin-left: 2%;
+}
